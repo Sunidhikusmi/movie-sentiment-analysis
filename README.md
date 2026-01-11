@@ -49,16 +49,16 @@ It classifies reviews as **Positive** or **Negative** based on the textual conte
 
 ## Project Structure
 movie-sentiment-analysis/
-|-dataset/
+- dataset/
     |-README.md
     |-test.csv
     |-train.csv
-|-confusion_matrix.png
-|-logreg_model.pkl
-|-new_reviews.csv
-|-predict_sentiment.py
-|-sentiment_analysis.py
-|-tfidf_vectorizer.pkl
+- confusion_matrix.png
+- logreg_model.pkl
+- new_reviews.csv
+- predict_sentiment.py
+- sentiment_analysis.py
+- tfidf_vectorizer.pkl
 
 ## How to Run
 
@@ -75,5 +75,4 @@ Type exit to quit
 
 ## Dataset
 
-IMDb Movie Reviews Dataset (Kaggle)
-
+- IMDb Movie Reviews Dataset (Kaggle)
